@@ -1,8 +1,8 @@
-<p align='left'><samp>「</samp></p>
-<p align="center"><samp>there's no place like ~/</samp></p>
-<p align='right'><samp>」</samp></p>
+<p align='left'><samp>
+#!/usr/bin/env bash
+</samp></p>
 
-<div align="center">
+<div align="left">
   <p>
     <samp>
     <a href="https://p3nguin-kun.github.io">website</a> - 
