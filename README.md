@@ -1,6 +1,8 @@
-<p align='left'><samp>
-#!/usr/bin/env bash
-</samp></p>
+<samp>
+to-do:
+  
+  - write readme
+</samp>
 
 <div align="left">
   <p>
