@@ -1,5 +1,5 @@
 ![img](ok.jpg)
-## Hi there, p3nguin here!
+## Hi there, p3nguin here! (≧∇≦)/
 - a normal guy doing random things on the internet
 - normal student, programmer, *nix/linux (ab)user, tech paranoid, weeb(?)
 
