@@ -7,6 +7,5 @@
 - website: [personal website](https://p3nguin-kun.github.io)
 - mail: [p3nguinkun at proton.me](mailto:p3nguinkun@proton.me)
 - reddit: [u/kh4nhhi3n](https://reddit.com/u/kh4nhhi3n)
-- instagram : [p3nguinkunz](https://instagram.com/p3nguinkunz)
 - discord: [my discord server](https://discord.gg/fxeSRbVfkK)
 - youtube: [@p3nguin-kun](https://youtube.com/@p3nguin-kun)
