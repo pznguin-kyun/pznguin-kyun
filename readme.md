@@ -4,7 +4,7 @@
 - normal student, programmer, *nix/linux (ab)user, tech paranoid, weeb(?)
 
 ## Me on the internet
-- website: [personal website](https://p3nguin-kun.github.io)
+- website: [p3nguin.is-a.dev](https://p3nguin.is-a.dev) // [p3nguinkun.neocities.org](p3nguinkun.neocities.org)
 - mail: [p3nguinkun at proton.me](mailto:p3nguinkun@proton.me)
 - reddit: [u/kh4nhhi3n](https://reddit.com/u/kh4nhhi3n)
 - discord: [my discord server](https://discord.gg/fxeSRbVfkK)
