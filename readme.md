@@ -13,10 +13,6 @@
             \\
 ```
 
-## hi there, p3nguin here! (≧∇≦)/
-- a normal guy doing random things on the internet
-- normal student, programmer, *nix/linux (ab)user, tech nerd (?), weeb(?)
-
 ## me on the internet
 - website: [p3nguin.is-a.dev](https://p3nguin.is-a.dev) // [p3nguinkun.neocities.org](p3nguinkun.neocities.org)
 - mail: [p3nguinkun at proton.me](mailto:p3nguinkun@proton.me)
