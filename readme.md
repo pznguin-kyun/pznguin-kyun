@@ -1,9 +1,21 @@
-# **on hiatus!**
+```
+  .--.---.
+ ( \'--'/ )
+( '..-...' )
+ '.'-._.'.'
+  <'-.,.->
+     `\(
+       \(  _
+      < \ / \
+       __\|_/
+     /  \ \
+     '__'. \ >
+            \\
+```
 
-![img](ok.jpg)
 ## hi there, p3nguin here! (≧∇≦)/
 - a normal guy doing random things on the internet
-- normal student, programmer, *nix/linux (ab)user, tech paranoid, weeb(?)
+- normal student, programmer, *nix/linux (ab)user, tech nerd (?), weeb(?)
 
 ## me on the internet
 - website: [p3nguin.is-a.dev](https://p3nguin.is-a.dev) // [p3nguinkun.neocities.org](p3nguinkun.neocities.org)
