@@ -7,4 +7,4 @@
 じしˍ,)ノ
 ```
 
-[p3nguin.is-a.dev](https://p3nguin.is-a.dev)
+[www](https://p3nguin.is-a.dev)
