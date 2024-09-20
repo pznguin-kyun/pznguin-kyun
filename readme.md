@@ -7,4 +7,4 @@
 じしˍ,)ノ
 ```
 
-[www](https://p3nguin.is-a.dev)
+[www](https://pznguin.is-a.dev)
